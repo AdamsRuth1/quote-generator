@@ -8,7 +8,7 @@ const quotes = [
             author: "Winston Churchill", 
         },
         { 
-            text: "Learn to appreciate winners so you guys can be winners sooner than expected. Celebrate Nigeria grace 😂.", 
+            text: "Learn to appreciate winners so you guys can be win sooner than expected. Celebrate Nigeria grace 😂.", 
             author: "", 
         },
         { 
